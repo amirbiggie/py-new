@@ -36,6 +36,6 @@ while guess_try > 0:
      except:
          print("please enter a valid number")  
 
-print("by by")         
+     
    
       
